@@ -2,7 +2,7 @@
 
 https://e-commerce-in-25-days.netlify.app/
 
-This is an entirely free to take course on building an e-commerce platform with Next.js, Netlify and Stripe! Over the course of 25 days (or 1 day if you want to binge it!) we will incrementally be creating an entirely Jamstack online store, that is entirely free to host!
+This is an entirely free course on building an e-commerce platform with Next.js, Netlify and Stripe! Over the course of 25 days (or 1 day if you want to binge it!) we will incrementally be creating an entirely Jamstack online store, that is entirely free to host!
 
 It is important to lay a solid foundation before we just do a bunch of magic tricks to create our platform, so we start off covering some React basics - components, state, props, side effects etc - then look at what Next.js gives us to build super powerful webapps - static site generation, routing etc - and finally we build out a fully hosted serverless e-commerce platform and learn a bunch of stuff along the way - Styled Components, Netlify hosting and serverless functions, stripe etc.
 
